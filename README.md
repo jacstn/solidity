@@ -2,3 +2,5 @@
 
 
 Smart Contracts
+ - Auction
+ - Lottery
